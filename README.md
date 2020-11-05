@@ -3,7 +3,7 @@
 
 This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
 
-See the master branch for code
+See the master branch for code from the tutorial.
 
 ## File structure
 
@@ -12,5 +12,3 @@ The app is split out into two folders:
 - `final`: Final version
 
 From within the `start` and `final` directories, there are two folders (one for `server` and one for `client`).
-
-I am modifying my own version of this app and it exists here: COMING SOON
