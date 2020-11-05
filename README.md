@@ -1,9 +1,16 @@
 # Apollo-Tutorial
 **The tutorial is now outdated and the final app does not work.**
-Tutorial to build a full-stack GraphQL-powered app with the Apollo platform.
 
-The functions like Airbnb but for space flights.
+This is the fullstack app for the [Apollo tutorial](http://apollographql.com/docs/tutorial/introduction.html). 🚀
 
-The tutorial can be found here: https://www.apollographql.com/docs/tutorial/introduction/
+See the master branch for code
+
+## File structure
+
+The app is split out into two folders:
+- `start`: Starting point for the tutorial
+- `final`: Final version
+
+From within the `start` and `final` directories, there are two folders (one for `server` and one for `client`).
 
 I am modifying my own version of this app and it exists here: COMING SOON
