@@ -1,5 +1,5 @@
-## Apollo-Tutorial
-# The tutorial is now outdated and the final app does not work.
+# Apollo-Tutorial
+**The tutorial is now outdated and the final app does not work.**
 Tutorial to build a full-stack GraphQL-powered app with the Apollo platform.
 
 The functions like Airbnb but for space flights.
